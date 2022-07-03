@@ -1,5 +1,5 @@
 import requests
-headers = {"Authorization": "AQAAAAAaGUsVAADLW1KR_k7TgUNvnfBCyUxenZ0"}
+headers = {"Authorization": "SuperSecretPasswordToken"}
 
 
 def create_folder():
